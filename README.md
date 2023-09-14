@@ -5,4 +5,8 @@
     # 4.Check app ./build/helloworld_cli
     # 5.Launch test ./build/test_version
 
+# Debug
+    # brew install act
+    # In the root launch command act
+    
 # Шаблон настройки GitHub Actions
