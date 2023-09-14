@@ -1,10 +1,9 @@
 name: 'C++ CI'
 
 on:
-  push:
+  merge_request:
     branches:
       - main
-      - feature/github_actions
   workflow_dispatch:
 
 jobs:
